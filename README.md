@@ -11,7 +11,7 @@ I have created this repository to showcase my analytics skills and keep track of
 
 ## Resume
 Here is my updated resume.
-[AYESHA IDRIS MALA](https://github.com/ayeshamala/data-analysis-portfolio/blob/main/AIM%20-%20CV.pdf)
+[AYESHA IDRIS MALA](https://github.com/ayeshamala/data-analysis-portfolio/blob/main/Ayesha%20Idris%20Mala%20-%20CV.pdf)
 
 ## Table of Contents
 - [About Me](#about-me)
