@@ -1,7 +1,5 @@
 # Ayesha Idris Mala - Data Analytics Portfolio
 
-## Resume --> [Ayesha Idris Mala](https://github.com/ayeshamala/data-analysis-portfolio/blob/main/AYESHA_IDRIS_MALA_CV.pdf)
-
 ## Retail Sales Analysis
 
 **Project Link:** [Retail Sales Analysis on GitHub](https://github.com/ayeshamala/retail_store_analysis)
